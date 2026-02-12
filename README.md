@@ -5,6 +5,7 @@
 **XV6 운영체제 커널의 Round Robin 스케줄러를 Stride Scheduling 알고리즘으로 교체**
 
 [![Hits](https://hits.sh/github.com/joejaeyoung/OS_Study-StrideScheduling.svg)](https://github.com/joejaeyoung/OS_Study-StrideScheduling)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e3cc9d85564d45ac9804053d230d72ae)](https://app.codacy.com/gh/joejaeyoung/OS_Study-StrideScheduling/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 </div>
 
